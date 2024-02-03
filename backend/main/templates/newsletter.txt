@@ -1,0 +1,7 @@
+Hola, {{usuario.nombre}} {{usuario.apellido}}!
+Te comparto la nómina de productos que tenemos en venta en Curso Comercio Api
+
+{% for producto in productos %}
+    {{producto}}
+
+{% endfor %}

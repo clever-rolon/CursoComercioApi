@@ -1,0 +1,3 @@
+Buenvenido/a {{usuario.nombre}} {{usuario.apellido}}!
+
+Gracias por registrarse al Comercio Curso Api.
